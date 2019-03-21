@@ -1,0 +1,21 @@
+cd Desktop
+cd lab1
+git init
+dir>l1.txt
+git add --all
+git commit -m "Initial commit"
+git remote add origin https://github.com/MikiAngelovik/SI_171042_lab1.git
+git push --all
+git add --all 
+git commit -m "Promeneto"
+git log --oneline
+git reset --hard 2fbf38f
+git branch logging
+git checkout logging
+dir>log.txt
+git log
+git add --all
+git commit -m "Nov branch logging"
+git push --all
+git checkout master
+git merge logging
