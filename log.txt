@@ -1,0 +1,11 @@
+commit 2fbf38fd55647ee3ec26eaa325645c58e8846334 (HEAD -> logging, origin/master, master)
+Author: unknown <Miljan.Angjelovikj@students.finki.ukim.mk>
+Date:   Thu Mar 21 10:32:51 2019 +0100
+
+    modify l1.txt
+
+commit 255a3f5205545a5443d28731c313177d64b9134d
+Author: unknown <Miljan.Angjelovikj@students.finki.ukim.mk>
+Date:   Thu Mar 21 10:29:56 2019 +0100
+
+    Initial commit
